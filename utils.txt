@@ -1,5 +1,6 @@
 DJANGO MODELS -> https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-types
 VIEWS -> https://docs.djangoproject.com/en/2.0/topics/http/views/
+QUERRY SETS -> https://docs.djangoproject.com/en/2.0/ref/models/querysets/
 
 DEPLYMENT CHECKLIST -> https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
 ADMIN DOMAIN -> https://docs.djangoproject.com/en/2.0/ref/contrib/admin/
