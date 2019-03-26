@@ -1,0 +1,6 @@
+DJANGO MODELS -> https://docs.djangoproject.com/en/2.0/ref/models/fields/#field-types
+VIEWS -> https://docs.djangoproject.com/en/2.0/topics/http/views/
+
+DEPLYMENT CHECKLIST -> https://docs.djangoproject.com/en/2.0/howto/deployment/checklist/
+ADMIN DOMAIN -> https://docs.djangoproject.com/en/2.0/ref/contrib/admin/
+URL DISPATCHER -> https://docs.djangoproject.com/en/2.0/topics/http/urls/
