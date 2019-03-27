@@ -16,7 +16,7 @@
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Germania One', cursive;
+    font-family: 'Baloo Chettan', cursive
 }
 
 .date {
@@ -47,5 +47,5 @@ h1, h2, h3, h4 {
 }
 
 body {
-    padding-left: 15px;
+    padding-left: 25px;
 }
